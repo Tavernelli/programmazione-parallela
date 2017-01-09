@@ -1,3 +1,3 @@
-# programmazione-parallela
-esame prog parallela
+# Programmazione parallela
+
 Parallelizzazione del Modified MidPoint Method utilizzando Mpi.
